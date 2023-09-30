@@ -1,0 +1,1 @@
+Burada s3 backend ayrı bi klasörde oluştur.Bir de başka bi klasörde de main tf oluşturarak değer ver

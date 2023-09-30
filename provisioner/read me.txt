@@ -1,0 +1,1 @@
+Bu nun amacı terraform kurduğumuz makinayı local yapıyoruz ve ec2 kurup makinaya bağlanıyoruz.
